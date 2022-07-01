@@ -5,7 +5,7 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
 </p>
 
 <h4 align="center"> 
-	🚧  Minha Horta Minha Vida 🚀 Em construção...  🚧
+	🏡 Minha Horta Minha Vida - Projeto Finalizado e Apresentado  🏆
 </h4>
 
 ### Tópicos 
@@ -13,8 +13,6 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-
-- [Atualizações](#atualizacoes)
 
 - [Desenvolvedores](#desenvolvedores)
 
@@ -46,11 +44,9 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
 
 ## Atualizações
 
-- Todas páginas de visualização agora são em PHP 28/05/2022
-- A página de suporte já está em funcionamento padrão realizando consultas no banco de dados 28/05/2022
-- A autenticação não será mais pelo firebase 27/05
-- A página kids foi excluída do projeto 19/05
-
+- Fase final do projeto
+- Game super trunfo de legumes em pauta para possivel implantação
+- Apresentado em pré banca e já aprovado para apresentação em feira
 
 ###
 
@@ -66,5 +62,13 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
   </tr>
 </table>
 
+## Colaboradores
+
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75916483?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/EnzoGoncalves"><sub><b>Enzo Gonçalves</b></sub></a><br /></td>
+
+  </tr>
+</table>
 
 #Projeto sem fins lucrativos#

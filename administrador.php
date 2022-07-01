@@ -17,7 +17,7 @@
          <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
          <!-- Bootstrap JS -->
          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script> 
-        
+        <script src="js/verifica-envio.js"></script>
    </head>
    <body>
       <div class="header"></div>
@@ -41,13 +41,10 @@ include("conexao.php");
                 $resultado_usuarios = mysqli_query($conexao, $result_usuarios);
                 while($row_usuario = mysqli_fetch_assoc($resultado_usuarios)){
                     echo "Nome: " . $row_usuario['nome'] . "<br>";
-                    echo "E-mail: " . $row_usuario['email'] . "<br>";
+                 ?> <p class="email"> <?php   echo  $row_usuario['email'] . "<br>";  ?></p><?php 
                     echo "Mensagem: " . $row_usuario['mensagem'] 
                     ?>
-                    <label for="mensagem">Digite a sua Mensagem</label>
-                    <input type="text" class="form-control" name="mensagem" rows="5" id="mensagem" aria-describedby="mensagem" required="required" maxlength="255" rows="5" ></input>
-                    <small id="mensagem" class="form-text text-muted">Digite a sua Mensagem </small>
-                    <a href="envia-msg-usu.php"><button class="btn btn-primary">Responder Usuário</button></a>     
+                     <a href="mailto:"><button class="btn btn-primary" id="botao">Responder Usuário</button></a>     
 
                     <hr>
                     <?php
@@ -56,7 +53,6 @@ include("conexao.php");
                 }
         ?> 
         <a href="suporte.php"><button class="btn btn-primary">Voltar a Home do Sistema</button></a>     
-        <a href="responder-mensagem.php"><button class="btn btn-warning">Responder Mensagem</button></a>         
         <?php
     } 
     

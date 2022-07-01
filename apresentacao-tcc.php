@@ -113,70 +113,7 @@ include ("conexao.php");
                 </div>
             </nav>
 
-           <div class="conteudo-inicial">
-                <div class="primeiro-conteudo">
-                    <h3 id="mudaCor">Sobre as Hortas</h3>
-                    <p id="mudaCor" class="paragrafo-conteudo">
-                        <!--Reescrever este paragrafo-->
-                        <!--https://www.harpyja.com.br/blog/sustentabilidade/dicas-sustentaveis-como-comecar-uma-horta-caseira-->
-                      No começo da pandemia do COVID-19, tivemos um aumento de 53 milhões de pessoas que desenvolveram depressão e 76 milhões apresentaram ansiedade em 2020 no mundo todo. Então a maioria procurou ideias de manter a mente ocupada, e uma dessas sugestões foram de criar hortaliças em casa ou em algum outro ambiente. Pesquisas apontam um grande crescimento nas vendas em produto que sejam para cultivar hortas.
-                      As hortas são geralmente estabelecidas em pequenos espaços, variando em plantas aromáticas, medicinais ou alimentícias.
-                      Montar e cultivar a própria horta gera economia, traz diversos benefícios tanto ambientais como pessoais. Um exemplo disso é o aumento da qualidade de vida, uma alimentação saudável, descartando o uso de agrotóxicos ou pesticidas.
-                    </p>
-                </div>
-                
-              
-                <img class="mySlides" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYIf-u3ZlRAle57cW0JzdQdPf6XLdmBPBFFG1ldS1BcaI2hyrkumd0mvi3DlA5-aZDWz7vdd7a2H9GSDa-55kzVNFPypDyNsuw085xS0iC_-6ck7LCgjoCQz3kFGFEGANfF6Sm8eGV0ZSAt9CVvrzX6lwnsOAbmKfgsqgKLyDHe6U34f8LSCW7o6zJSg/s320/sobre-hortas.png" width="25%" height="3%">
-               
 
-                    <div class="segundo-conteudo">
-                    <h3>Ajuda na Educação Alimentar</h3>
-                    <p class="paragrafo-conteudo">Ter uma horta em casa ajuda a nos livrar dos agrotóxicos, pois, segundo os dados do Ibama, o Brasil é o
-                     país a consumir a maior quantidade de agrotóxicos em números absolutos do planeta Terra.
-                     Então desta maneira você estará cuidando da sua saúde e da sua família, 
-                     levando em consideração de que você vai colher, produzir e consumir na mesma 
-                     hora um alimento fresco e saudável e repleto de bons nutrientes.</p>
-                     <table>
-<img class="foto-conteduo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAS5zGkuR--FJLzrzTp4mYOHmAEZUHBHmRxHlO2V3qfKKSZKRtErtveF-LfGTBd0cVp802pCkjCtoF1DCKt0CIusBhWOiIt06fjy4E9BJVCGwm15G6fGfGjy8yx9DDJzyK1IBZdBSlVC1YSobUc0DVHxKgyR6QXtSwXXL9JiFizow5nfMekfj2HhQQuw/s320/foto-educacao-alimentar.png" alt="Foto Educação Alimentar" width="25%" height="10%" >
-</table>
-                </div>
-                <div class="terceiro-conteudo">
-                    <h3>Terapia</h3>
-                    <p class="paragrafo-conteudo">
-                       Construir uma horta dentro de sua casa também ajuda na sua saúde mental, pois, 
-                       de acordo com alguns especialistas, ter contato com o solo ajuda em uma menor concentração dos hormônios ligados ao estresse.
-                       Ajuda também na influência da diminuição da ansiedade, melhora a qualidade do sono e previne os sintomas da depressão. 
-                       Fora a qualidade do ar que acaba melhorando também.
-</p>
-<table>
-<img class="foto-conteduo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkxfCOGMQPp_kTRsPuDLg0_x9jhPuH8g5yQ80nLyqb6qukpoTRLzGsZAWigeqdneipSSnlQTl5xNPkTuO4P1LUuk_VN4NBIn-0a5N43_-Vu1fq6jBmmA9P1BIRbEcZBPcd5RBUi3mQKdsQMMI_muhIITc8CZTw_GXR2CKwuHgYtqauCHbvCgK5XMQa4w/s320/educacao-alimentar.png" alt="Foto terapia" width="25%" height="10%" >
-</table>
-                </div>
-                            <div class="quinto-conteudo">
-                    <h3>Preservam o Meio Ambiente</h3>
-                    <p class="paragrafo-conteudo">
-                     Ter uma horta caseira traz todos esses e outros demais benefícios, contando com que você ainda pode ajudar com o bem-estar 
-                        do planeta, ajudando a reduzir a utilização de embalagens, contribuí para a diminuição dos gases poluentes na qual seria 
-                        dos transportes dos alimentos e também ajudará a 
-                        desestimular o desmatamento, poluição dos rios e dos solos causados pela agricultura intensiva.
-                    </p>
-                    <table>
-<img class="foto-conteduo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEGsCJ7X58YILeZT7GBjtlmg_sArLHFccaPFIha5tn_Kv9BPtVvESKnSz6wn42cnX5azcIBba5voc2mt1e8axr-YDPgSdTAgaDpqqlFDhYq9d-E7DClWJrRV1kGzAgRmWZisEuAItMiVPoM2EfZBmWipHwiQ_ZdPiO2RIBKtzRna7HgQF3kr3-zrYLA/s320/preservar-ambiente.png" alt="Foto Meio Ambiente" width="25%" height="10%" >
-</table>
-                </div>
-                <div class="quarto-conteudo">
-                    <h3>Decora o seu ambiente</h3>
-                    <p class="paragrafo-conteudo">
-                     Se caso não tiver muito espaço no ambiente em que estiver pensando em montar uma horta, não se preocupe, pois, mesmo com vasos 
-                       pequenos você consegue plantar um pé de manjericão, alface, cebolinha, 
-                       coentro e diversas outras opções, trazendo a aparência de um ambiente decorado, até porque o verde traz uma sensação de ar fresco e harmonia. 
-                    </p>
-                    <table>
-<img class="foto-conteduo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiecGkCAO6uXIQK7CrE4rD_d6YWg98K-5c8jQvMrTmZO1vT2v52OrZb7u9ki1zHe1WrKdP_0EvfFdG6sEnvPBOw9uS8y9UF_OHMhJjFFSRScuCmQbBrzLbksgwIzfCaJPVB7n_3G9Nkd4IgcKsrqWFyAPwFUdJWvS_82nb4nIhUjrAY4U8jYD0a8KyMXQ/s320/decorar-ambiente.png" alt="Foto terapia" width="25%" height="10%" >
-</table>
-                </div>
-
-            </div>
             </div>
         </div>
     

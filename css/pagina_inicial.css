@@ -63,7 +63,7 @@ span {
     min-width: 250px;
     max-width: 250px;
     background: #f7d9c2;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 242, 242);
     transition: all 0.3s;
 }
 
@@ -207,7 +207,7 @@ ul.CTAs a {
         max-width: 80px;
         text-align: center;
         margin-left: -80px !important;
-        background-color: #000000;
+        background-color: #f7d9c2;
     }
     .dropdown-toggle::after {
         top: auto;
@@ -293,90 +293,6 @@ ul.CTAs a {
 	font-size: 18px;
   text-decoration: none;
 
-}
-
-
-#myFooter {
-    background-color: #3c3d41;
-    color: white;
-    padding-top: 5px;
-    text-align: center;
-}
-
-#myFooter .footer-copyright {
-    background-color: #333333;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    text-align: center;
-}
-
-#myFooter .row {
-    margin-bottom: 20px;
-}
-
-#myFooter .navbar-brand {
-    margin-top: 1px;
-    margin-bottom: 1px;
-    height: 35px;
-}
-
-#myFooter .footer-copyright p {
-    margin: 10px;
-    color: #ccc;
-}
-
-#myFooter ul {
-    list-style-type: none;
-    padding-left: 0;
-    line-height: 1.7;
-}
-
-#myFooter h5 {
-    font-size: 18px;
-    color: white;
-    font-weight: bold;
-    margin-top: 30px;
-}
-
-#myFooter h2 a{
-    font-size: 50px;
-    text-align: center;
-    color: #fff;
-}
-
-#myFooter a {
-    color: #d2d1d1;
-    text-decoration: none;
-}
-
-#myFooter a:hover,
-#myFooter a:focus {
-    text-decoration: none;
-    color: white;
-}
-
-#myFooter .social-networks {
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 16px;
-}
-
-#myFooter .social-networks a {
-    font-size: 18px;
-    color: #f9f9f9;
-    padding: 10px;
-    transition: 0.2s;
-    
-}
-
-#myFooter .social-networks a:hover {
-    text-decoration: none;
-}
-
-@media screen and (max-width: 767px) {
-    #myFooter {
-        text-align: center;
-    }
 }
 
 
